@@ -4,7 +4,6 @@
 
 ### AI-Powered Disease Intelligence & Healthcare Analytics Platform
 
-*Apple Health × Tesla Dashboard × NASA Mission Control × Silicon Valley AI Startup*
 
 <br />
 
